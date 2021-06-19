@@ -2,6 +2,9 @@
 
 [ReactTutorial](https://ja.reactjs.org/tutorial/tutorial.html)をやったのでその記録。
 
+Github Pagesで作成物公開してます
+
+https://anderiens.github.io/react-tutorial/
 
 ---
 
